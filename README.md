@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![File Exchange](https://shields.insidelabs.mathworks.com/14453)](https://www.mathworks.com/matlabcentral/fileexchange/14453)
 
 Printing Variables to HTML Tables in Published Code
 ===========
