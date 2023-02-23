@@ -9,3 +9,7 @@ assert(isequal(1+2,3));
 %%
   
 assert(isequal(2+2,4));
+
+%%
+  
+assert(isequal(2+3,5));
