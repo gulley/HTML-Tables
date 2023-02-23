@@ -1,15 +1,7 @@
 name: Testing
 on: 
-  push:
-    branches: [ "main" ]
-    paths-ignore:
-      - 'README.md'
-  pull_request:
-    branches: [ "main" ]
-    
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
+  [push]
+  
 jobs:
   my-job:
     name: Run MATLAB Tests and Generate Artifacts
